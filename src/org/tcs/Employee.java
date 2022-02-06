@@ -11,4 +11,8 @@ public class Employee {
 		e.add();
 	}
 
+	public void multiplication() {
+		System.out.println("multiplication");
+	}
+
 }
